@@ -1,5 +1,5 @@
 # sdors
-Sdors program will restart your computer or your computer target
+Sdors will restart your computer or your computer target
 
 You can choose this program run on registry or as service.
 
